@@ -1,0 +1,25 @@
+{
+  "name": "@rogovdm/gatsby-source-mailchimp",
+  "version": "1.0.5",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rg4real/gatsby-source-mailchimp.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "publish": "np"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "mailchimp-api-v3": "1.13.0"
+  },
+  "devDependencies": {
+    "np": "5.0.2"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
