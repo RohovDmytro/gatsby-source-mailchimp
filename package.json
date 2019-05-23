@@ -8,7 +8,7 @@
   },
   "main": "index.js",
   "scripts": {
-    "np": "np"
+    "np": "np && git push"
   },
   "keywords": [],
   "author": "",
