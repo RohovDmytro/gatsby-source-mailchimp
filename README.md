@@ -4,6 +4,12 @@ It's a plugin a wrote for my single usecase:
 
 > Display number of my newsletter subscribers in my gatsby blog
 
+### Installation
+
+```
+yarn add @rogovdm/gatsby-source-mailchimp
+```
+
 ### Usage
 
 `gatsby-config.js`
