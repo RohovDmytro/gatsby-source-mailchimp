@@ -20,5 +20,24 @@ It's a plugin a wrote for my single usecase:
 ];
 ```
 
+`index.js`
+
+```javascript
+export const pageQuery = graphql`
+  query {
+    allMailchimpList {
+      edges {
+        node {
+          id
+          stats {
+            member_count
+          }
+        }
+      }
+    }
+  }
+`;
+```
+
 - You can get `id` in settings of your list.
 - You can can your API key in account setting of your mailchimp account.
