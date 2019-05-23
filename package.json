@@ -8,7 +8,7 @@
   },
   "main": "index.js",
   "scripts": {
-    "publish": "np"
+    "np": "np"
   },
   "keywords": [],
   "author": "",
