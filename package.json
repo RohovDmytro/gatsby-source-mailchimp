@@ -10,8 +10,12 @@
   "scripts": {
     "np": "np && git push"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "mailchimp"
+  ],
+  "author": "RG",
   "license": "MIT",
   "dependencies": {
     "mailchimp-api-v3": "1.13.0"
